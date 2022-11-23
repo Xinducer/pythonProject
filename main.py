@@ -11,7 +11,7 @@ music = ("MOON.mp3", "DAHLIA.mp3", "Dreamcatcher(드림캐쳐) 'BOCA' MV.mp3",
 
 
 window = Tk()
-window.title("sputipay ni JD")
+window.title("Title test")
 window.geometry("700x50")
 
 topFrame = Frame(window)
